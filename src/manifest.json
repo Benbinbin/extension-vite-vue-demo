@@ -1,0 +1,24 @@
+{
+    "name": "demo",
+    "description": "demo",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "action": {
+        "default_icon": {
+            "16": "./assets/images/icon16_tag.png",
+            "32": "./assets/images/icon32_tag.png",
+            "48": "./assets/images/icon48_tag.png",
+            "64": "./assets/images/icon64_tag.png",
+            "128": "./assets/images/icon128_tag.png"
+        },
+        "default_title": "Awesome Extension",
+        "default_popup": "./popup/index.html"
+    },
+    "icons": {
+        "16": "./assets/images/icon16_tag.png",
+        "32": "./assets/images/icon32_tag.png",
+        "48": "./assets/images/icon48_tag.png",
+        "64": "./assets/images/icon64_tag.png",
+        "128": "./assets/images/icon128_tag.png"
+    }
+}
